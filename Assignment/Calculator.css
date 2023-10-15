@@ -1,0 +1,29 @@
+#calci{
+    height: 320px;
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid black;
+    background: rgb(113, 113, 217);
+    
+
+}
+input[type="text"]{
+    height: 50px;
+    width: 94.5%;
+    margin: 2px;
+    font-size: larger;
+    color: black;
+    background-color: rgb(208, 202, 202);
+
+}
+button{
+    border-radius: 50%;
+    border: none;
+    width: 20%;
+    margin: 8px;
+    padding: 9px;
+    background: linear-gradient(rgb(164, 15, 15), rgb(108, 167, 27), yellow);
+    font-weight: bolder;
+    
+    
+}
